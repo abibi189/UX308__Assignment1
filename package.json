@@ -1,7 +1,10 @@
 {
-    "type":"module",
-    "scripts":{
-        "test":"npx jasmine",
-        "start":"npx http-server"
+    "type": "module",
+    "scripts": {
+        "test": "npx jasmine",
+        "start": "npx http-server"
+    },
+    "devDependencies": {
+        "jasmine": "^5.6.0"
     }
 }
